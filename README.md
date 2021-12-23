@@ -17,3 +17,9 @@ yarn build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+
+### Check doc
+
+See [hint](https://www.codechit.com/build-chrome-extension-with-vue-js/)
